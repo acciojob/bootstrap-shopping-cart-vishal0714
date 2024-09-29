@@ -1,1 +1,17 @@
-/*  your css code here. If applicable */
+.summary-item{
+	border-bottom:2px solid blue;
+}
+.block-heading{
+	color:#3b99e0;
+	text-align:center;
+}
+.block-heading p{
+	text-align:center;
+}
+.summary {
+	border-top: 2px solid rgb(94, 164, 243);
+	background-color:rgb(247, 251, 255);
+}
+button{
+	background-color:"pink";
+}
